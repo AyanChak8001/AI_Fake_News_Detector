@@ -34,7 +34,7 @@ This project implements a machine learning-based system for detecting fake news 
 - Streamlit for web application development
 
 ## Installation
-git clone https://github.com/amisha1106/fake-news-detection.git
+git clone https://github.com/AyanChak8001/AI_Fake_News_Detector.git
 
 cd fake-news-detection
 
